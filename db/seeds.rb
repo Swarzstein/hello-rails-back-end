@@ -4,6 +4,6 @@ Greeting.create([
   { text: "Hello! this is the front end and I come from the Back end." },
   { text: "Hola! este es el front-end y vengo del back-end." },
   { text: "Hallo! dies ist das Frontend und ich komme vom Backend." },
-  { text: "هُلَ! ءَاشْتَاشَال فُرُنْتَانْدْ اِبَانْغُ دَالْ بَكَانْدْ." },
-  { text: "ھولا! ئېستې ئېس ئېل فرونت-ئېند ئى ۋېنگو دېل باك-ئېند." }
+  { text: ".هُلَ! ءَاشْتَا ءَاشْ ءَال فُرُنْتَانْدْ اِبَانْغُ دَالْ بَكَانْدْ" },
+  { text: ".ھولا! ئېستې ئېس ئېل فرونت-ئېند ئى ۋېنگو دېل باك-ئېند" }
   ])
